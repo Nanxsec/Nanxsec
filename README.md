@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/FnGJfc18tDDHy/100.webp?cid=ecf05e47ljquomsvmrpnujrq83bi14z3y3koonbl5wjhmri5&ep=v1_gifs_search&rid=100.webp&ct=g" width="399" height="399" alt="Hacker Animation"/>
+  <img src="https://media3.giphy.com/media/FnGJfc18tDDHy/100.webp?cid=ecf05e47ljquomsvmrpnujrq83bi14z3y3koonbl5wjhmri5&ep=v1_gifs_search&rid=100.webp&ct=g" width="599" height="399" alt="Hacker Animation"/>
 </div>
 
 ---
