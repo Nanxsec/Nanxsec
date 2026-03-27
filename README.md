@@ -35,11 +35,11 @@ Gosto de quebrar sistemas para entendê-los — e depois construir defesas melho
 ## 🧰 Habilidades
 
 ### 💻 Programação
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="20">   Python 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="20">   Bash
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="16"/>   C
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="20">   JavaScrip
-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" title="php" alt="php" width="24"/>   Php
+- Python 
+- Bash
+- C
+- JavaScrip
+- Php
   
 ### 🌐 Redes
 - TCP/IP
