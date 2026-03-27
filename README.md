@@ -29,6 +29,7 @@
 
 - Redes de computadores
 - Programação (C, Python, Bash)
+- Virtualização
 - Cibersecurity
 
 ---
