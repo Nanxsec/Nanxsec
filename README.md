@@ -151,7 +151,7 @@ Meu objetivo é me tornar:
 
 ## ⚠️ Aviso
 
-Todas as ferramentas e scripts são apenas para fins educacionais e ambientes autorizados de teste. O uso das ferramentas do meu github é de total responsabilidade de quem a usar!
+Todas as ferramentas e scripts são apenas para fins educacionais em ambientes autorizados. O uso das ferramentas do meu github é de total responsabilidade de quem a usar!
 
 
 ![Nanxsec GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nanxsec&bg_color=000000&color=ff0000&line=8b0000&point=ff4500&hide_border=true)
