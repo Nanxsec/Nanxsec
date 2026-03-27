@@ -1,13 +1,4 @@
-<img width="100%" src="htps://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&animation=fadeIn"/>
-
-<div align="center">
-    <h3 align="center"> Bem-vindo(a) </h3>
-    <p align="center">
-        <img src="https://profile-counter.glitch.me/{Nanxsec}/count.svg" alt="Nanxsec :: Contador de visitantes" />
-    </p>
-</div>
-
----
+# 👨‍💻 Nano - Estudante de Cibersegurança e Redes de computadores
 
 <div align="center">
   <img src="https://media3.giphy.com/media/FnGJfc18tDDHy/100.webp?cid=ecf05e47ljquomsvmrpnujrq83bi14z3y3koonbl5wjhmri5&ep=v1_gifs_search&rid=100.webp&ct=g" width="599" height="399" alt="Hacker Animation"/>
@@ -15,55 +6,152 @@
 
 ---
 
-## <h3 align="center">🎧 Quem eu sou?</h3>
+## 🧠 Sobre mim
 
-- Comecei minha história em programação e cibersegurança com 15 anos<br>
-- Co-fundador da steaksec, pequena empresa de pentest e desenvolvimento de jogos <br>
-- Atualmente sou jogador de CTF na plataforma TryHackMe <br>
+Comecei minha jornada em programação e cibersegurança desde jovem, movido pela curiosidade de entender como sistemas, redes e vulnerabilidades funcionam por trás dos bastidores.
 
-- Atualmente eu gosto de ficar estudando sobre tecnologias e vulnerabilidades, tento me especializar ao máximo em um assunto.<br>
-- Busco sempre encontrar novas saídas para resoluções de problemas!<br>
-- Pretendo trabalhar com cibersegurança ou analista de redes<br>
+Atualmente estou focado em me aprimorar ainda mais em:
 
-### 🥷 Habilidades
+- Análise de redes
+- Hacking ético (CTFs e laboratórios)
+- Pesquisa de vulnerabilidades
+- Automação em segurança
 
-- Redes de computadores
-- Programação (C, Python, Bash)
-- Virtualização
-- Cibersecurity
+Gosto de quebrar sistemas para entendê-los — e depois construir defesas melhores.
 
 ---
 
-## 💻 Tecnologias
+## 🎯 Foco atual
 
-
-</div>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" alt="GIT" width="50" height="50"/>
-</div>
+- Cibersegurança (Pentest Red Team e Blue Team)
+- Análise de redes e infraestrutura
+- Desafios de Capture The Flag (CTF)
+- Desenvolvimento de ferramentas de segurança em Python
+- Pesquisa de vulnerabilidades reais
+- Testes de penetração em redes wi-fi
 
 ---
 
+## 🧰 Habilidades
 
-## 🔗 Sociais
+### 💻 Programação
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="20">   Python 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="20">   Bash
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="16"/>   C
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="20">   JavaScrip
+- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" title="php" alt="php" width="24"/>   Php
+  
+### 🌐 Redes
+- TCP/IP
+- SMB, HTTP, DNS, FTP, SSH, e etc
+- Análise de pacotes
+- Enumeração de redes
+- Análise de tráfego de redes
+- Criação de redes
+- Vlans - Wlans - Subredes e etc
+- Configurações de Switches, Roteadores e outros equipamentos de redes
 
-<div align="center">
-   <a href="https://youtube.com/@nanoxsec?si=itvuFSTVqu4nzM-r" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/nanoxsec" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/nanoxsec" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a><br>
-   <img src="https://tryhackme-badges.s3.amazonaws.com/Nanoxsec.png" alt="Your Image Badge" width=300 heigth=280/>
-</div>
+### 🔐 Cibersegurança
+- Conceitos de pentest
+- Varredura de vulnerabilidades
+- Segurança web (OWASP Top 10)
+- Fundamentos de Active Directory
+- Pós exploração
+- Escalonamento de privilégio
+- Pivoting
+- Port Forwarding
+- Vulnerabilidades conhecidas
+- Criação de exploits
+
+### Familiaridade com sistemas linux:
+
+- Ubuntu
+- Debian
+- Mint
+- Kali Linux (atualmente não uso mais)
 
 ---
 
+## ⚙️ Tecnologias
+
+- Python
+- Bash Script
+- C
+- JavaScript
+- HTML5
+- CSS3
+- Git
+- GitHub
+- Linux
+- Redes TCP/IP
+
+---
+
+## 🚀 Projetos
+
+### 🛡️ Metatron Framework
+Um toolkit modular de cibersegurança inspirado em conceitos de segurança ofensiva.
+
+Funcionalidades em desenvolvimento:
+- Módulos de varredura de vulnerabilidades (base OWASP)
+- Automação de scan de rede
+- Camada de integração de exploits
+- Sistema de geração de payloads
+- Base de conhecimento central (sistema Codex)
+- Exploração de serviços
+
+---
+
+### 🔎 Ferramenta SMB de Segurança: SMBSeer
+Ferramenta personalizada para:
+- Teste de credenciais SMB
+- Enumeração de usuários
+- Descoberta de compartilhamentos
+- Validação de autenticação remota
+- Dump automático de hashes
+- Dumo automático de usuários
+
+Construída em Python3
+
+---
+
+## 🏆 CTF e Plataformas
+
+- TryHackMe: aprendizado ativo
+- HackTheBox: máquinas e laboratórios de segurança
+- Intigriti: desafios de vulnerabilidade -> Resolução do CTF HackDonalds
+
+---
+
+## 🧩 Filosofia de aprendizado
+
+> “Eu não estudo apenas vulnerabilidades — eu estudo o motivo delas existirem.”
+
+Acredito em entender sistemas profundamente, desde pacotes de rede até lógica de aplicações, para construir habilidades reais de defesa e ataque.
+
+---
+
+## 🎯 Objetivo de carreira
+
+Meu objetivo é me tornar:
+
+- 🛡️ Analista SOC OU
+- 🔓 Pentester Júnior OU
+- 🌐 Analista de Segurança de Redes
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/nanxsec
+- TryHackMe: https://tryhackme.com/p/Nanoxsec
+- Instagram: @eulucas.97
+
+---
+
+## ⚠️ Aviso
+
+Todas as ferramentas e scripts são apenas para fins educacionais e ambientes autorizados de teste. O uso das ferramentas do meu github é de total responsabilidade de quem a usar!
 
 
 ![Nanxsec GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nanxsec&bg_color=000000&color=ff0000&line=8b0000&point=ff4500&hide_border=true)
-
