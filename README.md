@@ -109,7 +109,9 @@ Ferramenta personalizada para:
 - Descoberta de compartilhamentos
 - Validação de autenticação remota
 - Dump automático de hashes
-- Dumo automático de usuários
+- Dump automático de usuários
+- pivot para ganhar acesso ao servidor (reverse shell)
+- pivot de redes
 
 Construída em Python3
 
