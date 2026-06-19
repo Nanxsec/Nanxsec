@@ -40,7 +40,7 @@ Gosto de quebrar sistemas para entendê-los — e depois construir defesas melho
 - Python 
 - Bash
 - C
-- JavaScrip
+- JavaScript
 - Php
   
 ### 🌐 Redes
