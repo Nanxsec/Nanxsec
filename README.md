@@ -1,6 +1,6 @@
 # 👨‍💻 Lucas Silva - Estudante de Cibersegurança e Redes de computadores
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
   <img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" alt="Hack the planet" />
 </div>
 ---
