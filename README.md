@@ -70,7 +70,8 @@ Gosto de quebrar sistemas para entendê-los — e depois construir defesas melho
 - Ubuntu
 - Debian
 - Mint
-- Kali Linux (atualmente não uso mais)
+- Kali Linux
+- Parrot OS
 
 ---
 
