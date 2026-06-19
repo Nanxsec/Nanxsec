@@ -1,5 +1,7 @@
 # 👨‍💻 Lucas Silva - Estudante de Cibersegurança e Redes de computadores
 
+https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif
+
 ---
 
 ## 🧠 Sobre mim
