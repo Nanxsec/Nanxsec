@@ -54,7 +54,8 @@ Gosto de quebrar sistemas para entendê-los — e depois construir defesas melho
 - Configurações de Switches, Roteadores e outros equipamentos de redes
 
 ### 🔐 Cibersegurança
-- Conceitos de pentest
+- Cisco Ethical Hacker
+- Pentest / Red Team
 - Varredura de vulnerabilidades
 - Segurança web (OWASP Top 10)
 - Fundamentos de Active Directory
